@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Follow this tutorial all credit 
+
+https://designmodo.com/bootstrap-react-sass/
+
 ## How was created
 
 npx create-react-app lead-capture-app
@@ -9,6 +13,8 @@ npx create-react-app lead-capture-app
 npm i bootstrap@5
 
 npm i node-sass
+
+npm i bootstrap-icons
 
 ## Pre - Requisites
 
@@ -20,9 +26,11 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
 
 In the project directory, you can run:
 
+cd lead-capture-app
 
+npm install 
 
-
+npm start
 
 ### `yarn start`
 
